@@ -4,7 +4,6 @@ A basic Java console app inspired by the word game, mad libs.
 - Add random nouns, adjectives, adverbs and verbs to get a funny story.  
 - The app is restricted to age 14 and older.
 
-
 ## DEPENDENCIES
 
 - Java v8
