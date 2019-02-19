@@ -30,6 +30,7 @@ A basic Java console app inspired by the word game, mad libs.
 ### Java Commands
 
 ```java
+  clear && javac TreeStory.java && java TreeStory
   console.printf("Hello\n");
   console.printf("Hello, %s", firstName);
   console.readLine();
